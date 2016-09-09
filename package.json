@@ -1,0 +1,23 @@
+{
+  "name": "yairc",
+  "version": "1.0.0",
+  "description": "Yet Another IRC Client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addaleax/yairc.git"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "Anna Henningsen <anna@addaleax.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/addaleax/yairc/issues"
+  },
+  "homepage": "https://github.com/addaleax/yairc#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "rejected-promise": "^1.0.0"
+  }
+}
